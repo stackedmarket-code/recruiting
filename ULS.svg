@@ -1,0 +1,39 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1552 1552" width="1552" height="1552">
+	<title>ULS_BIG copy-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1498.337,0,0,1378.193,201.139,888.52)">
+			<stop offset="0" stop-color="#ca0123"/>
+			<stop offset=".15" stop-color="#c10123"/>
+			<stop offset=".4" stop-color="#a90224"/>
+			<stop offset=".71" stop-color="#810326"/>
+			<stop offset=".97" stop-color="#5b0428"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1099.397,922.459,-1018.51,-1213.871,1224.502,405.546)">
+			<stop offset="0" stop-color="#ca0123"/>
+			<stop offset=".15" stop-color="#c10123"/>
+			<stop offset=".4" stop-color="#a90224"/>
+			<stop offset=".71" stop-color="#810326"/>
+			<stop offset=".97" stop-color="#5b0428"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: #ca0123 } 
+	</style>
+	<g id="a">
+	</g>
+	<g id="b">
+		<g id="c">
+			<g id="d">
+				<g id="e">
+					<g id="f">
+						<path id="Layer" class="s0" d="m740.8 1358c337.5 0 577.9-271.6 577.9-582 0-310.4-244.4-543.2-542.9-543.2-31.2 0-70 3.8-89.3 7.9 35-11.7 93.1-15.8 124-15.8 395.6 0 632.2 318.3 632.2 659.6 0 399.7-298.5 667.5-666.9 667.5-426.8 0-775.8-349.2-775.8-776 0-151.4 46.7-349.2 205.7-523.7-101 139.5-128.1 279.2-128.1 419 0 360.8 244.2 686.7 663.2 686.7z"/>
+						<path id="path39" class="s1" d="m810.5 194c-337.3 0-577.7 271.6-577.7 582 0 310.4 244.2 543.2 543 543.2 30.9 0 69.7-3.8 89-7.9-34.8 11.7-93.1 15.8-124 15.8-395.6 0-632.3-318.3-632.3-659.6 0-399.7 298.8-667.5 667.3-667.5 426.5 0 775.5 349.2 775.5 776 0 151.4-46.4 349.2-205.4 523.7 100.9-139.5 128-279.2 128-419 0-360.8-244.4-686.7-663.4-686.7z"/>
+					</g>
+					<path id="path42" fill-rule="evenodd" class="s2" d="m565.6 407.8v404.9c0 25.7 7.6 48 43.3 48 32.6 0 42.6-28.5 42.6-51.1v-401.8h125.7v388.7c0 91.6-40.2 161.4-169 161.4-107.1 0-169.3-51.2-169.3-161.4v-388.7zm261.6 731.7v-537.7h125.7v429.9h153.6v107.8z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
